@@ -1,6 +1,6 @@
 import { Pokemon } from "./abstract.js";
 
-export class Pikathu extends Pokemon {
+export class Pikachu extends Pokemon {
     constructor() {
         super("Pikachu", "Thunderbolt", 190, "Electrick");
     }

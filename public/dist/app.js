@@ -1,11 +1,11 @@
 import { Alcremie } from "./Alcremie.js";
-import { Caterpie } from "./caterpie.ts.js";
+import { Caterpie } from "./caterpie.js";
 import { Cosmog } from "./cosmog.js";
 import { Drapion } from "./drapion.js";
 import { Joltik } from "./joltik.js";
 import { Marill } from "./marill.js";
 import { Morpeko } from "./morpeko.js";
-import { Pikathu as Pikachu } from "./pikachu.js";
+import { Pikachu } from "./pikachu.js";
 import { Roselia } from "./roselia.js";
 import { Sandshrew } from "./sandshrew.js";
 import { Squirtle } from "./squirtle.js";
