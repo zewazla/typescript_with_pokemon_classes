@@ -8,4 +8,7 @@ export class Pokemon {
     showInfoAbout() {
         console.log(this.name, this.attack, this.hp, this.type);
     }
+    getLinkToImage() {
+        return `./img/${this.constructor.name}.png`;
+    }
 }

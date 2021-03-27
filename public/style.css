@@ -1,0 +1,24 @@
+body {
+    background: lightblue;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 1em;
+}
+
+.container>div {
+    border: solid grey;
+    border-radius: .5em;
+    padding: 1em;
+    text-align: center;
+}
+
+header {
+  text-align: center;  
+}
+
+h1 {
+    font-size: 5em;
+}
