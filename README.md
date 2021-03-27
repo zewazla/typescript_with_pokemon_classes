@@ -9,7 +9,7 @@
 * [Contact](#contact)
 
 ## Screenshots
-![Example screenshot](./img/pokemon.jpg)
+![Example screenshot](/img/pokemon.jpg)
 
 ## Technologies
 * HTML
