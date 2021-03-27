@@ -2,14 +2,12 @@
 > > Pokemon Pokedex with TypeScript
 
 ## Table of contents
-* [Screenshots](#screenshots)
+
 * [Technologies](#technologies)
 * [Status](#status)
 * [Inspiration](#inspiration)
+* [Screenshots](#screenshots)
 * [Contact](#contact)
-
-## Screenshots
-![Example screenshot](img/pokemon.jpg)
 
 ## Technologies
 * HTML
@@ -25,6 +23,9 @@ Project is: _in progress_
 ## Inspiration
 * Pokemon Photo & Information: https://www.pokemon.com/us/pokedex/
 
+
+## Screenshots
+![Example screenshot](public/img/pokemon.jpg)
 
 ## Contact
 bozka.majchrzak@gmail.com
